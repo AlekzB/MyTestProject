@@ -1,3 +1,4 @@
+--Added new comment for feature branch
 CREATE TABLE ExPlanOperator_P4 (
   ID INT IDENTITY(1, 1)
   ,CX_Name VARCHAR(50)
