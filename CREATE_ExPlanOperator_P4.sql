@@ -1,3 +1,4 @@
+--Changes for the second feature
 CREATE TABLE ExPlanOperator_P4 (
   ID INT IDENTITY(1, 1)
   ,CX_Name VARCHAR(50)
@@ -9,7 +10,7 @@ GO
  
 INSERT INTO ExPlanOperator_P4
 VALUES (
-  'Alen'
+  'Alen'1
   ,'9625788954'
   ,'London'
   ,500
