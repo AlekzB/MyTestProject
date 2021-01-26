@@ -1,5 +1,5 @@
 {
-	"name": "CopyNewRecords",
+	"name": "Blob to SQL",
 	"properties": {
 		"annotations": []
 	}
